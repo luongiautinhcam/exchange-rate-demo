@@ -41,7 +41,7 @@
                     <?php echo $mua = $nt['Buy']; ?>
                 </td>
                 <td>
-                <?php echo $ban = $nt['Sell']; ?>
+                    <?php echo $ban = $nt['Sell']; ?>
                 </td>
             </tr>
         <?php
@@ -49,7 +49,7 @@
         ?>
     </table>
     <hr>
-    Tỷ giá cập nhật vào lúc <b><?php echo $timeupdate?></b> và chỉ mang tính chất tham khảo<br>
+    Tỷ giá cập nhật vào lúc <b><?php echo $timeupdate?></b> và chỉ mang tính chất tham khảo <br>
     * <i>Đơn vị <b>VNĐ</b> </i> 
 </body>
 
